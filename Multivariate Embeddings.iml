@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:realAdaBoost:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:rotationForest:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:classifierBasedAttributeSelection:1.0.5" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:classificationViaClustering:1.0.7" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:attributeSelectionSearchMethods:1.0.7" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:chiSquaredAttributeEval:1.0.4" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:partialLeastSquares:1.0.5" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:SPegasos:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:chiSquaredAttributeEval:1.0.41" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:paceRegression:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:linearForwardSelection:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:racedIncrementalLogitBoost:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:grading:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:fastCorrBasedFS:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:DTNB:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:SMOTE:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:hyperPipes:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:probabilisticSignificanceAE:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:consistencySubsetEval:1.0.4" level="project" />
+    <orderEntry type="library" name="org.apache.commons:commons-io:1.3.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:multiLayerPerceptrons:1.0.10" level="project" />
+    <orderEntry type="library" name="org.apache.commons:commons-lang3:3.3.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:wekaPython:1.0.10" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:citationKNN:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:tabuAndScatterSearch:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:SVMAttributeEval:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:costSensitiveAttributeSelection:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:functionalTrees:1.0.4" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:RBFNetwork:1.0.8" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:metaCost:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:supervisedAttributeScaling:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:oneClassClassifier:1.0.4" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:largeScaleKernelLearning:1.0.1" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:dagging:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:multilayerPerceptronCS:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:ensembleLibrary:1.0.4" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:multiBoostAB:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:localOutlierFactor:1.0.4" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:filteredAttributeSelection:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:gridSearch:1.0.12" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:decorate:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:raceSearch:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:stackingC:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:thresholdSelector:1.0.3" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:multiInstanceLearning:1.0.9" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:weka-stable:3.8.4" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:LibSVM:1.0.10" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:normalize:1.0.2" level="project" />
+    <orderEntry type="library" name="nz.ac.waikato.cms.weka:EMImputation:1.0.2" level="project" />
+  </component>
+</module>
